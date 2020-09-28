@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444828601299",
+    "firebase_url": "https://loja-virtual-8abda.firebaseio.com",
+    "project_id": "loja-virtual-8abda",
+    "storage_bucket": "loja-virtual-8abda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444828601299:android:9bdf64a695351875e67d26",
+        "android_client_info": {
+          "package_name": "br.com.josimas.jkstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444828601299-b80ee3d8agmidt8c1r41544pfa18rpna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.josimas.jkstore",
+            "certificate_hash": "78a4b29f047706bb95437554a37c237b85e93607"
+          }
+        },
+        {
+          "client_id": "444828601299-fisagpqn44co51av9489dotmlrib6t56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7PCHljkKt9Y4ZxqpXAnr0Xe5yDKQNyoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444828601299-fisagpqn44co51av9489dotmlrib6t56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
